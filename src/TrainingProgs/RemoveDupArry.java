@@ -22,7 +22,7 @@ public class RemoveDupArry {
                 }
 
                 if (count > 1) {
-                    System.out.println(arr[i]);
+                    System.out.print(arr[i]+" ");
                 }
             }
         }

@@ -21,9 +21,10 @@ public class RightRot2 {
             arr[i]= temp[i];
         }
         System.out.println("Array after rotated by 2");
-        for(int num:arr)
+        for(int i=0;i<n;i++)
         {
-            System.out.println(num+" ");
+            int num= arr[i];
+            System.out.print(num+" ");
         }
     }
 }

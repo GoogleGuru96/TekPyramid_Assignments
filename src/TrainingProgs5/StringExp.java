@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class StringExp {
     public static void main(String[] args) {
-        String[] input={"apple", "banana", "cherry", "dates"};
+        String[] input={"apple", "banana", "cherrys", "dates"};
         String[] s=new String[4];
         for(int i=0; i<input.length;i++)
         {

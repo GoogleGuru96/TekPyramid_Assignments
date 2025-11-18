@@ -99,7 +99,7 @@ import java.util.stream.Collectors;
                 }
             }
 
-            System.out.println("\nTask 2 → Average age (if country > 10 customers): " +
+            System.out.println("\nTask 2 → Average age (if country > 10 customers):: " +
                     (avgAge.isPresent() ? avgAge.getAsDouble() : "Condition not met"));
         }
     }
